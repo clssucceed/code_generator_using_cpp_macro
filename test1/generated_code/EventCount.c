@@ -1,0 +1,1 @@
+EventCounter g_counter = {0};

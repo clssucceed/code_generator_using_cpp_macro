@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "eventcounter.h": "c",
+        "countinterpreter.h": "c"
+    }
+}
